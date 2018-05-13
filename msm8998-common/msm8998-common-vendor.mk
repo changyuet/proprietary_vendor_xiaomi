@@ -589,7 +589,6 @@ PRODUCT_PACKAGES += \
     embms \
     ims \
     imssettings \
-    radioconfig \
     uceShimService \
     CNEService \
     qcrilmsgtunnel \
